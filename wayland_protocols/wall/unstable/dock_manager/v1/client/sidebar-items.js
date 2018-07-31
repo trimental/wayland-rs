@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["zww_dock_manager_v1","singleton for dock management"],["zww_dock_v1","a dock"]]});

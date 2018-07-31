@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["zww_background_v2","singleton for background management"]]});

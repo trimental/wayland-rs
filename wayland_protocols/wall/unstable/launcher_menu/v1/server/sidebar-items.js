@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["zww_launcher_menu_v1","singleton for launchers and menus"]]});

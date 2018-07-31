@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["wl_output_interface",""],["wl_surface_interface",""],["zww_dock_manager_v1_interface",""],["zww_dock_manager_v1_requests",""],["zww_dock_v1_events",""],["zww_dock_v1_interface",""],["zww_dock_v1_requests",""]]});

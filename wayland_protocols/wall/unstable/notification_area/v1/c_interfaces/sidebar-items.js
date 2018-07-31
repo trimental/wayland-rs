@@ -1,0 +1,1 @@
+initSidebarItems({"static":[["wl_surface_interface",""],["zww_notification_area_v1_events",""],["zww_notification_area_v1_interface",""],["zww_notification_area_v1_requests",""],["zww_notification_v1_interface",""],["zww_notification_v1_requests",""]]});
